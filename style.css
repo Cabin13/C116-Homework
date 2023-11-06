@@ -1,0 +1,16 @@
+.text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#body {
+    background-image: url("https://wallpaper.dog/large/5472669.jpg");
+    text-align: center;
+}
+
+#takeSnapshotButton:hover {
+    border-radius: 200px;
+}
+
+#takeSnapshotButton {
+    background-color: orange;
+}
